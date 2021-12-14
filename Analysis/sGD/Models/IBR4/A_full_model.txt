@@ -1,0 +1,50 @@
+Linear mixpdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+m likelihood
+ Data: ibr4 
+        AIC       BIC   logLik
+  -2059.733 -1957.813 1046.866
+
+Random effects:
+ Formula: ~N + cost | land
+ Structure: General positive-definite, Log-Cholesky parametrization
+            StdDev     Corr         
+(Intercept) 0.55609303 (Intr) N     
+N           0.41203732 -0.302       
+cost        0.06172359 -0.845  0.592
+
+ Formula: ~N + cost | road %in% land
+ Structure: General positive-definite, Log-Cholesky parametrization
+            StdDev     Corr        
+(Intercept) 0.28156049 (Intr) N    
+N           0.05746605 0.371       
+cost        0.01677020 0.380  0.997
+Residual    0.16079624             
+
+Correlation Structure: Exponential spatial correlation
+ Formula: ~x + y | land/road 
+ Parameter estimate(s):
+range 
+1e+20 
+Fixed effects: A ~ barr + mort 
+                Value  Std.Error   DF  t-value p-value
+(Intercept)  5.311025 0.10078924 2877 52.69436  0.0000
+barr        -0.308122 0.04054338   78 -7.59982  0.0000
+mort        -0.111557 0.04066709   78 -2.74317  0.0075
+ Correlation: 
+     (Intr) barr 
+barr 0.001       
+mort 0.000  0.589
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-15.016804  -2.738846  -1.344328  -0.304438   4.313007 
+
+Number of Observations: 2967
+Number of Groups: 
+          land road %in% land 
+            10             90 

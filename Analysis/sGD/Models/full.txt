@@ -1,0 +1,34 @@
+> summary(ibr4qA.lme)
+Linear mixed-effects model fit by maximum likelihood
+ Data: qibr4 
+        AIC       BIC   logLik
+  -38256.51 -38197.67 19135.25
+
+Random effects:
+ Formula: ~1 | land
+        (Intercept)  Residual
+StdDev:   0.4691694 0.8563392
+
+Correlation Structure: Exponential spatial correlation
+ Formula: ~x + y | land/road 
+ Parameter estimate(s):
+   range 
+12.16465 
+Fixed effects: A ~ barr * mort 
+                Value  Std.Error    DF   t-value p-value
+(Intercept)  4.039357 0.15625790 33000 25.850575  0.0000
+barr        -0.304532 0.04898343 33000 -6.217042  0.0000
+mort        -0.069700 0.04896218 33000 -1.423540  0.1546
+barr:mort    0.044142 0.04896261 33000  0.901543  0.3673
+ Correlation: 
+          (Intr) barr   mort  
+barr      -0.001              
+mort      -0.001 -0.001       
+barr:mort  0.000 -0.001 -0.004
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-2.6617835  0.3631832  0.8142405  1.1943982  2.2658312 
+
+Number of Observations: 33013
+Number of Groups: 10 

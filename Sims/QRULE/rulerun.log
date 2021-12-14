@@ -1,0 +1,32 @@
+
+
+         Qrule (v 4.1) Landscape Pattern Analysis          01/29/14 
+         Map choice: M
+         Maxlevel     8   H = 0.500000    
+         Rows x Columns =    256 x    256
+         n  Wrap = F
+         Random number seed:    -999999
+         Rule choice is: 3
+         Map classes =     1
+         The normalized probabilities are:
+                 P          CumP
+           0    0.5000     0.5000
+           1    0.5000     1.0000
+         N_Reps =     10
+         Map output choice = G
+         Output file for generated map: test.txt                                                    
+         Analysis method: NONE
+
+         Resolution:  30.0000     meters
+
+                        Mean Association Matrix 
+         Avg ChiX =  0.00000     w/    0 df (FXceed (  0.0000) = -NaN    )
+               0        1
+       0   0.471031 0.028581
+       1   0.028581 0.471806
+
+
+     p's  0.499612 0.500388
+ Time in: [hr 11 m 48 s 47 (ms 694)]
+ Time in: [hr 11 m 49 s 49 (ms 366)]
+ 

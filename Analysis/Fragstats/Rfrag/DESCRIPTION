@@ -1,0 +1,12 @@
+Package: Rfrag
+Type: Package
+Title: Tools for working with FRAGSTATS in R
+Version: 1.0
+Date: 2014-03-02
+Author: Kevin McGarigal
+Maintainer: K. McGarigal <mcgarigalk@eco.umass.edu>
+Description: The intention is for this package to become a collection of R functions for working with FRAGSTATS in R
+License: GPL-2
+LazyLoad: yes
+Packaged: 2014-03-04 22:34:48 UTC; mcgarigal
+Built: R 3.0.2; ; 2014-03-04 22:38:50 UTC; windows

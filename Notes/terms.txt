@@ -1,0 +1,73 @@
+DEFINITIONS
+population bottleneck: a population of some minimal size that is the result of some drastic demographic event19
+
+inbreeding depression: a trend of decreased reproduction and/or survival in a population because of increased expression of recessive traits caused by inbreeding20
+
+genetic drift: genetic sampling bias. Van Dyke20 defines it as “random fluctuations in gene frequencies that occur as a result of non-representative combinations of gametes created during breeding.” While it can affect populations of any size, genetic drift can disproportionately impact small populations. Why? Because as population size decreases, there is an increased chance that random matings between individuals (“sampling”) will not collectively be representative of the genetic variation found in the population. 20
+
+heterozygosity: carrying different alleles for a particular genetic locus, as opposed to homozygous (having the same alleles) or hemizygous (having one allele). Average heterozygosity is a measure of genetic diversity at the population scale and indicates the average proportion of individuals that are heterozygous for a given trait. 20
+
+gene flow: the transfer of genetic material. Defined by Slatkin as the collective term for “the movement of gametes, individuals, and even entire populations” which can hamper local adaptations or spread new genes and genetic combinations throughout a species’ range.21
+
+apomictic: reproduction without either fertilization or meiosis; vegetative reproduction. 22
+
+allopatric: refers to groups of organisms that are geographically separated such that gene flow cannot occur between them; reproductively isolated due to geography. 22
+
+allelic richness: the number of alleles per locus23, often averaged over a population. It is expected to be more sensitive to founder effects than is heterozygosity.3
+
+founder effect: occurs when a population that was founded by a small ancestral group experiences a high frequency of a particular allele because one or more of the founders was a carrier of that allele 24
+
+hybrid: the offspring of two parents that differ in one or more heritable characteristics; offspring of two different varieties or of two different species.22
+
+hybridization: the formation of offspring between unlike parents.22
+
+
+
+REFERENCES
+1Baker, H.G. 1986. Patterns of plant invasion in North America. In: Ecology of Biological Invasions of North American and Hawai’I. H.A. Mooney and J.A. Drake, eds. Springer-Verlag, New York. 321 p.
+
+2e.g., McCauley, D.E., J. Raveill, and J. Antonovics. 1995. Local founding events as determinants of genetic structure in a plant metapopulation. Heredity 75:630-6.
+
+3Dlugosch, K.M. and I.M. Parker. 2008. Founding events in species invasions: genetic variation, adaptive evolution, and the role of multiple introductions. Molecular Ecology 17:431-49.
+
+4Allendorf, F.W. and L.L. Lundquist. 2003. Population biology, evolution, and control of invasive species. Conservation Biology 17(1):24-30.
+
+5Nei, M., T. Maruyama, R. Chakraborty. 1975. The bottleneck effect and genetic variability in populations. Evolution 29:1-10.
+
+6Bossdorf, O., H. Auge, L. Lafuma, W.E. Rogers, E. Siemann, and D. Prati. 2005. Phenotypic and genetic differentiation between native and introduced plant populations. Oecologia 144:1-11.
+
+7Lee, P.L.M., R.M. Patel, R.S. Conlan, S.J. Wainwright, and C.R. Hipkin. 2004. Comparison of genetic diversities in native and alien populations of hoary mustard (Hirschfeldia incana [L.] Lagreze-Fossat). International Journal of Plant Science 165(5):833-43.
+
+8Ellstrand, N.C. and K.A. Schierenbeck. 2000. Hybridization as a stimulus for the evolution of invasiveness in plants? Proceedings of the National Academy of Sciences 97(13):7043-50.
+
+9Schoen, D.J. and A.H.D. Brown. 1991. Intraspecific variation in population gene diversity and effective population size correlates with the mating system in plants. Proceedings of the National Academy of Sciences 88(10):4494-7.
+
+10Novak, S.J. and R.N. Mack. 1993. Genetic variation in Bromus tectorum (Poaceae): comparison between native and introduced populations. Heredity 71:167-76.
+
+11Whitney, K.D. and C. A. Gabler. Rapid evolution in introduced species, ‘invasive traits’ and recipient communities: challenges for predicting invasive potential. Diversity and Distributions 14:569-580.
+
+12Lavergne, S. and J. Molofsky. 2007. Increased genetic variation and evolutionary potential drive the success of an invasive grass. Proceedings of the National Academy of Sciences 104(10):3883-8.
+
+13Blossey, B. and R. Nötzold. 1995. Evolution of increased competitive ability in invasive nonindigneous plants: a hypothesis. Journal of Ecology 83:887-9.
+
+14Galatowitsch, S.M., N.O. Anderson, and P.D. Ascher. 1999. Invasiveness in wetland plants in temperate North America. Wetlands. 19(4):733-55.
+
+15Sakai, A.K., F.W. Allendorf, J.S. Holt, D.M. Lodge, J. Molofsky, K.A. With, S. Baughman, R.J. Cabin, J.E. Cohen, N.C. Ellstrand, D.E. McCauley, P. O’Neil, I. M. Parker, J.N. Thompson, and S.G. Weller. 2001. The population biology of invasive species. Annual Review of Ecology and Systematics 32:305-32.
+
+16Ridley, C.E. and N.C. Ellstrand. 2009. Evolution of enhanced reproduction in the hybrid-derived invasive, California wild radish (Raphanus sativus). Biological Invasions 11:2251-64.
+
+17Ayres, D.R., K. Zaremba, C.M. Sloop, and D.R. Strong. 2008. Sexual reproduction of cordgrass hybrids (Spartina foliosa x alterniflora) invading tidal marshes in San Francisco Bay. Diversity and Distributions 14:187-95.
+
+18Hayes, K.R. and S.C. Barry. 2008. Are there any consistent predictors of invasion success? Biological Invasions 10:483-506.
+19Frankel, O.H. and M.E. Soulé. 1981. Conservation and evolution. Cambridge University Press. Cambridge.
+
+20Van Dyke, F. 2002. Conservation Biology: Foundations, Concepts, Applications. 2nd ed. Springer. 477 p.
+
+21Slatkin, M. 1987. Gene flow and the geographic structure of natural populations. Science 236:4803(787-92).
+
+22Raven, P.H., R.F. Evert, S.E. Eichhorn. 1999. Biology of Plants. 6th ed. W.H. Freeman and Company/Worth Publishers. New York. 944 p.
+
+
+23USGS 2008. Genetics and genomics glossary. http://biology.usgs.gov/genetics_genomics/glossary.html (accessed 13 Dec 2009).
+
+24Jenkins, J.B. 1990. Human Genetics, 2nd ed. Harper & Row. New York.

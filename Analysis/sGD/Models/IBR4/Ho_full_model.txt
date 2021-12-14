@@ -1,0 +1,44 @@
+Linear mixed-effects model fit by maximum likelihood
+ Data: ibr4 
+        AIC       BIC  logLik
+  -17226.66 -17124.74 8630.33
+
+Random effects:
+ Formula: ~N + cost | land
+ Structure: General positive-definite, Log-Cholesky parametrization
+            StdDev      Corr         
+(Intercept) 0.039908188 (Intr) N     
+N           0.010819151 -0.335       
+cost        0.004919567 -0.556  0.951
+
+ Formula: ~N + cost | road %in% land
+ Structure: General positive-definite, Log-Cholesky parametrization
+            StdDev      Corr        
+(Intercept) 0.038822831 (Intr) N    
+N           0.005698107 0.226       
+cost        0.002392668 0.108  0.936
+Residual    0.012280869             
+
+Correlation Structure: Exponential spatial correlation
+ Formula: ~x + y | land/road 
+ Parameter estimate(s):
+range 
+1e+20 
+Fixed effects: Ho ~ barr + mort 
+                 Value   Std.Error   DF  t-value p-value
+(Intercept)  0.5778309 0.009132505 2877 63.27190       0
+barr        -0.0461006 0.005160060   78 -8.93413       0
+mort        -0.0458926 0.005166644   78 -8.88248       0
+ Correlation: 
+     (Intr) barr  
+barr -0.004       
+mort -0.001  0.589
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-10.5388403  -1.9788587  -0.4852887   0.4522386   8.9890641 
+
+Number of Observations: 2967
+Number of Groups: 
+          land road %in% land 
+            10             90 

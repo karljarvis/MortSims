@@ -1,0 +1,1421 @@
+
+CDPOP Release 2015.02.09-00:00:00MST Version version 1.2.25
+
+Author(s): Erin L Landguth
+
+Session runtime inputs from: /Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/inputvars.csv
+
+
+DoUserInput(): 0:00:00.033488
+DoPreProcess(): 0:00:00.029993
+DoCDCliamte(): 0:00:00.012835
+GetMetrics(): 0:00:00.000402
+DoMate(): 0:00:00.015599
+DoOffspring(): 0:00:00.000277
+InheritGenes(): 0:00:00.000007
+DoAdultMortality(): 0:00:00.000899
+DoDisperse(): 0:00:00.000431
+The file grid1.csv has been created
+DoOutput(): 0:00:00.001762
+End Generation Loop0: 0:00:00.032455
+
+ReadGrid(): 0:00:00.000234
+GetMetrics(): 0:00:00.000261
+DoMate(): 0:00:00.001352
+DoOffspring(): 0:00:00.000066
+InheritGenes(): 0:00:00.000009
+DoAdultMortality(): 0:00:00.001651
+DoDisperse(): 0:00:00.000355
+The file grid2.csv has been created
+DoOutput(): 0:00:00.001535
+End Generation Loop1: 0:00:00.005716
+
+ReadGrid(): 0:00:00.000368
+GetMetrics(): 0:00:00.000389
+DoMate(): 0:00:00.040048
+DoOffspring(): 0:00:00.000045
+InheritGenes(): 0:00:00.000010
+DoAdultMortality(): 0:00:00.000913
+DoDisperse(): 0:00:00.000226
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001614
+End Generation Loop2: 0:00:00.043926
+
+Population went extinct, program ended.
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun0mcrun0//genalex0.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun0mcrun0//genalex1.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun0mcrun0//genalex2.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun0mcrun0//genalex3.csv.csv has been created
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.017580
+End Monte Carlo Loop0: 0:00:00.130200
+
+End Batch Loop0: 0:00:00.152959
+
+DoPreProcess(): 0:00:00.003944
+DoCDCliamte(): 0:00:00.005332
+GetMetrics(): 0:00:00.000287
+DoMate(): 0:00:00.001961
+DoOffspring(): 0:00:00.000217
+InheritGenes(): 0:00:00.000007
+DoAdultMortality(): 0:00:00.001221
+DoDisperse(): 0:00:00.001407
+The file grid1.csv has been created
+DoOutput(): 0:00:00.021908
+End Generation Loop0: 0:00:00.032617
+
+ReadGrid(): 0:00:00.000335
+GetMetrics(): 0:00:00.000272
+DoMate(): 0:00:00.002133
+DoOffspring(): 0:00:00.000127
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.000793
+DoDisperse(): 0:00:00.001125
+The file grid2.csv has been created
+DoOutput(): 0:00:00.001586
+End Generation Loop1: 0:00:00.006600
+
+ReadGrid(): 0:00:00.000221
+GetMetrics(): 0:00:00.000227
+DoMate(): 0:00:00.001757
+DoOffspring(): 0:00:00.000101
+InheritGenes(): 0:00:00.000005
+DoAdultMortality(): 0:00:00.000916
+DoDisperse(): 0:00:00.001147
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001500
+End Generation Loop2: 0:00:00.006080
+
+ReadGrid(): 0:00:00.000223
+GetMetrics(): 0:00:00.000260
+DoMate(): 0:00:00.001859
+DoOffspring(): 0:00:00.000121
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.001203
+DoDisperse(): 0:00:00.001604
+The file grid4.csv has been created
+DoOutput(): 0:00:00.001584
+End Generation Loop3: 0:00:00.007111
+
+ReadGrid(): 0:00:00.000233
+GetMetrics(): 0:00:00.000243
+DoMate(): 0:00:00.001801
+DoOffspring(): 0:00:00.000220
+InheritGenes(): 0:00:00.000010
+DoAdultMortality(): 0:00:00.000894
+DoDisperse(): 0:00:00.001432
+The file grid5.csv has been created
+DoOutput(): 0:00:00.002105
+End Generation Loop4: 0:00:00.007205
+
+ReadGrid(): 0:00:00.000257
+GetMetrics(): 0:00:00.000341
+DoMate(): 0:00:00.001830
+DoOffspring(): 0:00:00.000105
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.000814
+DoDisperse(): 0:00:00.001042
+The file grid6.csv has been created
+DoOutput(): 0:00:00.001627
+End Generation Loop5: 0:00:00.006255
+
+ReadGrid(): 0:00:00.000240
+GetMetrics(): 0:00:00.000360
+DoMate(): 0:00:00.001908
+DoOffspring(): 0:00:00.000186
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.000971
+DoDisperse(): 0:00:00.001415
+The file grid7.csv has been created
+DoOutput(): 0:00:00.001537
+End Generation Loop6: 0:00:00.006913
+
+ReadGrid(): 0:00:00.000231
+GetMetrics(): 0:00:00.000235
+DoMate(): 0:00:00.001639
+DoOffspring(): 0:00:00.000090
+InheritGenes(): 0:00:00.000005
+DoAdultMortality(): 0:00:00.000781
+DoDisperse(): 0:00:00.000920
+The file grid8.csv has been created
+DoOutput(): 0:00:00.001537
+End Generation Loop7: 0:00:00.005672
+
+ReadGrid(): 0:00:00.000219
+GetMetrics(): 0:00:00.000215
+DoMate(): 0:00:00.001510
+DoOffspring(): 0:00:00.000103
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.000771
+DoDisperse(): 0:00:00.001722
+The file grid9.csv has been created
+DoOutput(): 0:00:00.002433
+End Generation Loop8: 0:00:00.007230
+
+ReadGrid(): 0:00:00.000194
+GetMetrics(): 0:00:00.000208
+DoMate(): 0:00:00.001774
+DoOffspring(): 0:00:00.000105
+InheritGenes(): 0:00:00.000005
+DoAdultMortality(): 0:00:00.000798
+DoDisperse(): 0:00:00.000958
+The file grid10.csv has been created
+DoOutput(): 0:00:00.001510
+End Generation Loop9: 0:00:00.005757
+
+ReadGrid(): 0:00:00.002579
+GetMetrics(): 0:00:00.001942
+DoMate(): 0:00:00.001980
+DoOffspring(): 0:00:00.000108
+InheritGenes(): 0:00:00.001429
+DoAdultMortality(): 0:00:00.001044
+DoDisperse(): 0:00:00.000979
+The file grid11.csv has been created
+DoOutput(): 0:00:00.004732
+End Generation Loop10: 0:00:00.015080
+
+ReadGrid(): 0:00:00.000212
+GetMetrics(): 0:00:00.001389
+DoMate(): 0:00:00.001567
+DoOffspring(): 0:00:00.000100
+InheritGenes(): 0:00:00.001344
+DoAdultMortality(): 0:00:00.001109
+DoDisperse(): 0:00:00.000978
+The file grid12.csv has been created
+DoOutput(): 0:00:00.005308
+End Generation Loop11: 0:00:00.012242
+
+ReadGrid(): 0:00:00.000232
+GetMetrics(): 0:00:00.001426
+DoMate(): 0:00:00.001697
+DoOffspring(): 0:00:00.000103
+InheritGenes(): 0:00:00.002013
+DoAdultMortality(): 0:00:00.000994
+DoDisperse(): 0:00:00.001090
+The file grid13.csv has been created
+DoOutput(): 0:00:00.005671
+End Generation Loop12: 0:00:00.013496
+
+ReadGrid(): 0:00:00.000291
+GetMetrics(): 0:00:00.001429
+DoMate(): 0:00:00.001677
+DoOffspring(): 0:00:00.000096
+InheritGenes(): 0:00:00.001277
+DoAdultMortality(): 0:00:00.000919
+DoDisperse(): 0:00:00.000930
+The file grid14.csv has been created
+DoOutput(): 0:00:00.005125
+End Generation Loop13: 0:00:00.011981
+
+ReadGrid(): 0:00:00.000280
+GetMetrics(): 0:00:00.001415
+DoMate(): 0:00:00.001774
+DoOffspring(): 0:00:00.000105
+InheritGenes(): 0:00:00.001311
+DoAdultMortality(): 0:00:00.000922
+DoDisperse(): 0:00:00.000940
+The file grid15.csv has been created
+DoOutput(): 0:00:00.005067
+End Generation Loop14: 0:00:00.012047
+
+ReadGrid(): 0:00:00.000228
+GetMetrics(): 0:00:00.001404
+DoMate(): 0:00:00.001740
+DoOffspring(): 0:00:00.000111
+InheritGenes(): 0:00:00.001963
+DoAdultMortality(): 0:00:00.001073
+DoDisperse(): 0:00:00.001131
+The file grid16.csv has been created
+DoOutput(): 0:00:00.005443
+End Generation Loop15: 0:00:00.013427
+
+ReadGrid(): 0:00:00.000231
+GetMetrics(): 0:00:00.001453
+DoMate(): 0:00:00.001619
+DoOffspring(): 0:00:00.000128
+InheritGenes(): 0:00:00.001292
+DoAdultMortality(): 0:00:00.000928
+DoDisperse(): 0:00:00.000944
+The file grid17.csv has been created
+DoOutput(): 0:00:00.005876
+End Generation Loop16: 0:00:00.012721
+
+ReadGrid(): 0:00:00.000282
+GetMetrics(): 0:00:00.002098
+DoMate(): 0:00:00.001987
+DoOffspring(): 0:00:00.000085
+InheritGenes(): 0:00:00.001308
+DoAdultMortality(): 0:00:00.000957
+DoDisperse(): 0:00:00.000973
+The file grid18.csv has been created
+DoOutput(): 0:00:00.005249
+End Generation Loop17: 0:00:00.013237
+
+ReadGrid(): 0:00:00.000586
+GetMetrics(): 0:00:00.001471
+DoMate(): 0:00:00.002030
+DoOffspring(): 0:00:00.000148
+InheritGenes(): 0:00:00.001345
+DoAdultMortality(): 0:00:00.001015
+DoDisperse(): 0:00:00.000945
+The file grid19.csv has been created
+DoOutput(): 0:00:00.005278
+End Generation Loop18: 0:00:00.013122
+
+ReadGrid(): 0:00:00.000263
+GetMetrics(): 0:00:00.001715
+DoMate(): 0:00:00.001669
+DoOffspring(): 0:00:00.000094
+InheritGenes(): 0:00:00.001358
+DoAdultMortality(): 0:00:00.001491
+DoDisperse(): 0:00:00.001064
+The file grid20.csv has been created
+DoOutput(): 0:00:00.020989
+End Generation Loop19: 0:00:00.028935
+
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex0.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex1.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex10.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex11.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex12.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex13.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex14.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex15.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex16.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex17.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex18.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex19.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex2.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex20.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex3.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex4.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex5.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex6.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex7.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex8.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun1mcrun0//genalex9.csv.csv has been created
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.106650
+End Monte Carlo Loop0: 0:00:00.350749
+
+End Batch Loop1: 0:00:00.350926
+
+DoPreProcess(): 0:00:00.003227
+DoCDCliamte(): 0:00:00.004681
+GetMetrics(): 0:00:00.000341
+DoMate(): 0:00:00.003183
+DoOffspring(): 0:00:00.000597
+InheritGenes(): 0:00:00.000016
+DoAdultMortality(): 0:00:00.001168
+DoDisperse(): 0:00:00.000900
+The file grid1.csv has been created
+DoOutput(): 0:00:00.001319
+End Generation Loop0: 0:00:00.012582
+
+DoCDCliamte(): 0:00:00.002747
+ReadGrid(): 0:00:00.000359
+GetMetrics(): 0:00:00.000281
+DoMate(): 0:00:00.001816
+DoOffspring(): 0:00:00.000122
+InheritGenes(): 0:00:00.000007
+DoAdultMortality(): 0:00:00.001343
+DoDisperse(): 0:00:00.000802
+The file grid2.csv has been created
+DoOutput(): 0:00:00.001116
+End Generation Loop1: 0:00:00.008851
+
+ReadGrid(): 0:00:00.000184
+GetMetrics(): 0:00:00.000410
+DoMate(): 0:00:00.001864
+DoOffspring(): 0:00:00.000074
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.001051
+DoDisperse(): 0:00:00.000417
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001100
+End Generation Loop2: 0:00:00.005457
+
+No females left in population, program ended.
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.000704
+End Monte Carlo Loop0: 0:00:00.031585
+
+End Batch Loop2: 0:00:00.031798
+
+DoPreProcess(): 0:00:00.004983
+DoCDCliamte(): 0:00:00.008464
+GetMetrics(): 0:00:00.000292
+DoMate(): 0:00:00.002123
+DoOffspring(): 0:00:00.000127
+InheritGenes(): 0:00:00.000032
+DoAdultMortality(): 0:00:00.000762
+DoDisperse(): 0:00:00.000944
+The file grid1.csv has been created
+DoOutput(): 0:00:00.001540
+End Generation Loop0: 0:00:00.014566
+
+ReadGrid(): 0:00:00.000297
+GetMetrics(): 0:00:00.000334
+DoMate(): 0:00:00.001569
+DoOffspring(): 0:00:00.000089
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.000787
+DoDisperse(): 0:00:00.000901
+The file grid2.csv has been created
+DoOutput(): 0:00:00.001628
+End Generation Loop1: 0:00:00.005900
+
+ReadGrid(): 0:00:00.000202
+GetMetrics(): 0:00:00.000208
+DoMate(): 0:00:00.001463
+DoOffspring(): 0:00:00.000079
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.000763
+DoDisperse(): 0:00:00.001168
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001944
+End Generation Loop2: 0:00:00.006095
+
+ReadGrid(): 0:00:00.000230
+GetMetrics(): 0:00:00.000221
+DoMate(): 0:00:00.001408
+DoOffspring(): 0:00:00.000072
+InheritGenes(): 0:00:00.000008
+DoAdultMortality(): 0:00:00.000723
+DoDisperse(): 0:00:00.000662
+The file grid4.csv has been created
+DoOutput(): 0:00:00.001602
+End Generation Loop3: 0:00:00.005175
+
+ReadGrid(): 0:00:00.000352
+GetMetrics(): 0:00:00.000432
+DoMate(): 0:00:00.002986
+DoOffspring(): 0:00:00.000132
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.001427
+DoDisperse(): 0:00:00.001447
+The file grid5.csv has been created
+DoOutput(): 0:00:00.004194
+End Generation Loop4: 0:00:00.011375
+
+ReadGrid(): 0:00:00.000284
+GetMetrics(): 0:00:00.000514
+DoMate(): 0:00:00.001429
+DoOffspring(): 0:00:00.000074
+InheritGenes(): 0:00:00.000009
+DoAdultMortality(): 0:00:00.000743
+DoDisperse(): 0:00:00.000786
+The file grid6.csv has been created
+DoOutput(): 0:00:00.001583
+End Generation Loop5: 0:00:00.005750
+
+ReadGrid(): 0:00:00.000211
+GetMetrics(): 0:00:00.000248
+DoMate(): 0:00:00.002052
+DoOffspring(): 0:00:00.000113
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.000963
+DoDisperse(): 0:00:00.000983
+The file grid7.csv has been created
+DoOutput(): 0:00:00.001559
+End Generation Loop6: 0:00:00.006398
+
+ReadGrid(): 0:00:00.000218
+GetMetrics(): 0:00:00.000226
+DoMate(): 0:00:00.001686
+DoOffspring(): 0:00:00.000101
+InheritGenes(): 0:00:00.000008
+DoAdultMortality(): 0:00:00.000744
+DoDisperse(): 0:00:00.000992
+The file grid8.csv has been created
+DoOutput(): 0:00:00.001433
+End Generation Loop7: 0:00:00.005631
+
+ReadGrid(): 0:00:00.000185
+GetMetrics(): 0:00:00.000212
+DoMate(): 0:00:00.001521
+DoOffspring(): 0:00:00.000098
+InheritGenes(): 0:00:00.000009
+DoAdultMortality(): 0:00:00.001136
+DoDisperse(): 0:00:00.001025
+The file grid9.csv has been created
+DoOutput(): 0:00:00.002087
+End Generation Loop8: 0:00:00.006783
+
+ReadGrid(): 0:00:00.000341
+GetMetrics(): 0:00:00.000327
+DoMate(): 0:00:00.002631
+DoOffspring(): 0:00:00.000106
+InheritGenes(): 0:00:00.000010
+DoAdultMortality(): 0:00:00.001286
+DoDisperse(): 0:00:00.001106
+The file grid10.csv has been created
+DoOutput(): 0:00:00.001721
+End Generation Loop9: 0:00:00.007859
+
+ReadGrid(): 0:00:00.003231
+GetMetrics(): 0:00:00.001613
+DoMate(): 0:00:00.002007
+DoOffspring(): 0:00:00.000102
+InheritGenes(): 0:00:00.001151
+DoAdultMortality(): 0:00:00.000961
+DoDisperse(): 0:00:00.000905
+The file grid11.csv has been created
+DoOutput(): 0:00:00.004428
+End Generation Loop10: 0:00:00.014663
+
+ReadGrid(): 0:00:00.000232
+GetMetrics(): 0:00:00.001346
+DoMate(): 0:00:00.001536
+DoOffspring(): 0:00:00.000086
+InheritGenes(): 0:00:00.000994
+DoAdultMortality(): 0:00:00.000914
+DoDisperse(): 0:00:00.000871
+The file grid12.csv has been created
+DoOutput(): 0:00:00.004983
+End Generation Loop11: 0:00:00.011233
+
+ReadGrid(): 0:00:00.000268
+GetMetrics(): 0:00:00.001362
+DoMate(): 0:00:00.001465
+DoOffspring(): 0:00:00.000097
+InheritGenes(): 0:00:00.001440
+DoAdultMortality(): 0:00:00.000963
+DoDisperse(): 0:00:00.001108
+The file grid13.csv has been created
+DoOutput(): 0:00:00.006990
+End Generation Loop12: 0:00:00.013970
+
+ReadGrid(): 0:00:00.000241
+GetMetrics(): 0:00:00.001494
+DoMate(): 0:00:00.001680
+DoOffspring(): 0:00:00.000109
+InheritGenes(): 0:00:00.001528
+DoAdultMortality(): 0:00:00.000951
+DoDisperse(): 0:00:00.001026
+The file grid14.csv has been created
+DoOutput(): 0:00:00.005794
+End Generation Loop13: 0:00:00.013081
+
+ReadGrid(): 0:00:00.000266
+GetMetrics(): 0:00:00.001569
+DoMate(): 0:00:00.002413
+DoOffspring(): 0:00:00.000176
+InheritGenes(): 0:00:00.001395
+DoAdultMortality(): 0:00:00.000959
+DoDisperse(): 0:00:00.000998
+The file grid15.csv has been created
+DoOutput(): 0:00:00.005226
+End Generation Loop14: 0:00:00.013321
+
+ReadGrid(): 0:00:00.000293
+GetMetrics(): 0:00:00.002919
+DoMate(): 0:00:00.002064
+DoOffspring(): 0:00:00.000121
+InheritGenes(): 0:00:00.002044
+DoAdultMortality(): 0:00:00.000966
+DoDisperse(): 0:00:00.001603
+The file grid16.csv has been created
+DoOutput(): 0:00:00.006536
+End Generation Loop15: 0:00:00.016861
+
+ReadGrid(): 0:00:00.000233
+GetMetrics(): 0:00:00.001278
+DoMate(): 0:00:00.001858
+DoOffspring(): 0:00:00.000148
+InheritGenes(): 0:00:00.002127
+DoAdultMortality(): 0:00:00.001059
+DoDisperse(): 0:00:00.003129
+The file grid17.csv has been created
+DoOutput(): 0:00:00.007122
+End Generation Loop16: 0:00:00.017243
+
+ReadGrid(): 0:00:00.000232
+GetMetrics(): 0:00:00.001315
+DoMate(): 0:00:00.001986
+DoOffspring(): 0:00:00.000226
+InheritGenes(): 0:00:00.002123
+DoAdultMortality(): 0:00:00.001508
+DoDisperse(): 0:00:00.002123
+The file grid18.csv has been created
+DoOutput(): 0:00:00.008607
+End Generation Loop17: 0:00:00.018702
+
+ReadGrid(): 0:00:00.000311
+GetMetrics(): 0:00:00.001369
+DoMate(): 0:00:00.002415
+DoOffspring(): 0:00:00.000161
+InheritGenes(): 0:00:00.001915
+DoAdultMortality(): 0:00:00.001126
+DoDisperse(): 0:00:00.001189
+The file grid19.csv has been created
+DoOutput(): 0:00:00.007559
+End Generation Loop18: 0:00:00.016393
+
+ReadGrid(): 0:00:00.000291
+GetMetrics(): 0:00:00.001682
+DoMate(): 0:00:00.002558
+DoOffspring(): 0:00:00.000131
+InheritGenes(): 0:00:00.001762
+DoAdultMortality(): 0:00:00.001024
+DoDisperse(): 0:00:00.001754
+The file grid20.csv has been created
+DoOutput(): 0:00:00.009167
+End Generation Loop19: 0:00:00.018724
+
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix0.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix1.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix10.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix11.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix12.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix13.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix14.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix15.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix16.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix17.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix18.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix19.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix2.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix20.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix3.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix4.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix5.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix6.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix7.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix8.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0/Gdmatrix9.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex0.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex1.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex10.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex11.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex12.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex13.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex14.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex15.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex16.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex17.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex18.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex19.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex2.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex20.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex3.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex4.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex5.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex6.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex7.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex8.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun3mcrun0//genalex9.csv.csv has been created
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.279720
+End Monte Carlo Loop0: 0:00:00.518872
+
+End Batch Loop3: 0:00:00.519004
+
+DoPreProcess(): 0:00:00.041057
+DoCDCliamte(): 0:00:00.006667
+GetMetrics(): 0:00:00.000322
+DoMate(): 0:00:00.003835
+DoOffspring(): 0:00:00.000200
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001170
+DoDisperse(): 0:00:00.000730
+The file grid1.csv has been created
+DoOutput(): 0:00:00.002216
+End Generation Loop0: 0:00:00.015524
+
+ReadGrid(): 0:00:00.000292
+GetMetrics(): 0:00:00.000326
+DoMate(): 0:00:00.001831
+DoOffspring(): 0:00:00.000174
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.000889
+DoDisperse(): 0:00:00.000845
+The file grid2.csv has been created
+DoOutput(): 0:00:00.001871
+End Generation Loop1: 0:00:00.006562
+
+ReadGrid(): 0:00:00.000223
+GetMetrics(): 0:00:00.000303
+DoMate(): 0:00:00.001891
+DoOffspring(): 0:00:00.000173
+InheritGenes(): 0:00:00.000050
+DoAdultMortality(): 0:00:00.001677
+DoDisperse(): 0:00:00.001713
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001960
+End Generation Loop2: 0:00:00.008597
+
+ReadGrid(): 0:00:00.000267
+GetMetrics(): 0:00:00.000313
+DoMate(): 0:00:00.002056
+DoOffspring(): 0:00:00.000160
+InheritGenes(): 0:00:00.000011
+DoAdultMortality(): 0:00:00.001280
+DoDisperse(): 0:00:00.001154
+The file grid4.csv has been created
+DoOutput(): 0:00:00.002394
+End Generation Loop3: 0:00:00.007967
+
+ReadGrid(): 0:00:00.000330
+GetMetrics(): 0:00:00.000443
+DoMate(): 0:00:00.003224
+DoOffspring(): 0:00:00.000338
+InheritGenes(): 0:00:00.000012
+DoAdultMortality(): 0:00:00.001665
+DoDisperse(): 0:00:00.001028
+The file grid5.csv has been created
+DoOutput(): 0:00:00.002000
+End Generation Loop4: 0:00:00.009481
+
+ReadGrid(): 0:00:00.000251
+GetMetrics(): 0:00:00.000340
+DoMate(): 0:00:00.001893
+DoOffspring(): 0:00:00.000117
+InheritGenes(): 0:00:00.000022
+DoAdultMortality(): 0:00:00.000895
+DoDisperse(): 0:00:00.000716
+The file grid6.csv has been created
+DoOutput(): 0:00:00.001597
+End Generation Loop5: 0:00:00.006150
+
+ReadGrid(): 0:00:00.000222
+GetMetrics(): 0:00:00.000245
+DoMate(): 0:00:00.001794
+DoOffspring(): 0:00:00.000220
+InheritGenes(): 0:00:00.000009
+DoAdultMortality(): 0:00:00.001164
+DoDisperse(): 0:00:00.001131
+The file grid7.csv has been created
+DoOutput(): 0:00:00.001794
+End Generation Loop6: 0:00:00.006976
+
+ReadGrid(): 0:00:00.000243
+GetMetrics(): 0:00:00.000262
+DoMate(): 0:00:00.001605
+DoOffspring(): 0:00:00.000125
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.000870
+DoDisperse(): 0:00:00.000630
+The file grid8.csv has been created
+DoOutput(): 0:00:00.001497
+End Generation Loop7: 0:00:00.005447
+
+ReadGrid(): 0:00:00.000221
+GetMetrics(): 0:00:00.000293
+DoMate(): 0:00:00.001470
+DoOffspring(): 0:00:00.000084
+InheritGenes(): 0:00:00.000006
+DoAdultMortality(): 0:00:00.000865
+DoDisperse(): 0:00:00.001078
+The file grid9.csv has been created
+DoOutput(): 0:00:00.002682
+End Generation Loop8: 0:00:00.007000
+
+ReadGrid(): 0:00:00.000331
+GetMetrics(): 0:00:00.000300
+DoMate(): 0:00:00.001668
+DoOffspring(): 0:00:00.000096
+InheritGenes(): 0:00:00.000010
+DoAdultMortality(): 0:00:00.000846
+DoDisperse(): 0:00:00.000845
+The file grid10.csv has been created
+DoOutput(): 0:00:00.001947
+End Generation Loop9: 0:00:00.006334
+
+ReadGrid(): 0:00:00.002856
+GetMetrics(): 0:00:00.002026
+DoMate(): 0:00:00.001578
+DoOffspring(): 0:00:00.000091
+InheritGenes(): 0:00:00.000649
+DoAdultMortality(): 0:00:00.001021
+DoDisperse(): 0:00:00.000684
+The file grid11.csv has been created
+DoOutput(): 0:00:00.003484
+End Generation Loop10: 0:00:00.012626
+
+ReadGrid(): 0:00:00.000249
+GetMetrics(): 0:00:00.001576
+DoMate(): 0:00:00.001766
+DoOffspring(): 0:00:00.000118
+InheritGenes(): 0:00:00.001152
+DoAdultMortality(): 0:00:00.001044
+DoDisperse(): 0:00:00.000688
+The file grid12.csv has been created
+DoOutput(): 0:00:00.004240
+End Generation Loop11: 0:00:00.011126
+
+ReadGrid(): 0:00:00.000295
+GetMetrics(): 0:00:00.001460
+DoMate(): 0:00:00.001532
+DoOffspring(): 0:00:00.000104
+InheritGenes(): 0:00:00.001730
+DoAdultMortality(): 0:00:00.001061
+DoDisperse(): 0:00:00.001395
+The file grid13.csv has been created
+DoOutput(): 0:00:00.005375
+End Generation Loop12: 0:00:00.013205
+
+ReadGrid(): 0:00:00.000258
+GetMetrics(): 0:00:00.001563
+DoMate(): 0:00:00.001789
+DoOffspring(): 0:00:00.000106
+InheritGenes(): 0:00:00.001585
+DoAdultMortality(): 0:00:00.001150
+DoDisperse(): 0:00:00.000803
+The file grid14.csv has been created
+DoOutput(): 0:00:00.005428
+End Generation Loop13: 0:00:00.012967
+
+ReadGrid(): 0:00:00.000278
+GetMetrics(): 0:00:00.001633
+DoMate(): 0:00:00.001833
+DoOffspring(): 0:00:00.000166
+InheritGenes(): 0:00:00.001942
+DoAdultMortality(): 0:00:00.001142
+DoDisperse(): 0:00:00.000744
+The file grid15.csv has been created
+DoOutput(): 0:00:00.004700
+End Generation Loop14: 0:00:00.012678
+
+ReadGrid(): 0:00:00.000225
+GetMetrics(): 0:00:00.001661
+DoMate(): 0:00:00.001932
+DoOffspring(): 0:00:00.000135
+InheritGenes(): 0:00:00.003751
+DoAdultMortality(): 0:00:00.001263
+DoDisperse(): 0:00:00.000919
+The file grid16.csv has been created
+DoOutput(): 0:00:00.004302
+End Generation Loop15: 0:00:00.014517
+
+ReadGrid(): 0:00:00.000221
+GetMetrics(): 0:00:00.001738
+DoMate(): 0:00:00.001877
+DoOffspring(): 0:00:00.000120
+InheritGenes(): 0:00:00.001337
+DoAdultMortality(): 0:00:00.001098
+DoDisperse(): 0:00:00.000653
+The file grid17.csv has been created
+DoOutput(): 0:00:00.003748
+End Generation Loop16: 0:00:00.011056
+
+ReadGrid(): 0:00:00.000227
+GetMetrics(): 0:00:00.001475
+DoMate(): 0:00:00.001575
+DoOffspring(): 0:00:00.000095
+InheritGenes(): 0:00:00.001636
+DoAdultMortality(): 0:00:00.001084
+DoDisperse(): 0:00:00.000749
+The file grid18.csv has been created
+DoOutput(): 0:00:00.004283
+End Generation Loop17: 0:00:00.011355
+
+ReadGrid(): 0:00:00.000269
+GetMetrics(): 0:00:00.001482
+DoMate(): 0:00:00.001565
+DoOffspring(): 0:00:00.000090
+InheritGenes(): 0:00:00.001137
+DoAdultMortality(): 0:00:00.001074
+DoDisperse(): 0:00:00.000971
+The file grid19.csv has been created
+DoOutput(): 0:00:00.003904
+End Generation Loop18: 0:00:00.010745
+
+ReadGrid(): 0:00:00.000245
+GetMetrics(): 0:00:00.001454
+DoMate(): 0:00:00.001697
+DoOffspring(): 0:00:00.000090
+InheritGenes(): 0:00:00.000712
+DoAdultMortality(): 0:00:00.001065
+DoDisperse(): 0:00:00.000437
+The file grid20.csv has been created
+DoOutput(): 0:00:00.002601
+End Generation Loop19: 0:00:00.008548
+
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix0.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix1.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix10.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix11.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix12.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix13.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix14.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix15.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix16.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix17.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix18.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix19.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix2.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix20.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix3.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix4.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix5.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix6.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix7.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix8.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0/Gdmatrix9.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex0.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex1.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex10.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex11.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex12.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex13.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex14.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex15.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex16.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex17.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex18.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex19.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex2.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex20.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex3.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex4.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex5.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex6.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex7.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex8.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun4mcrun0//genalex9.csv.csv has been created
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.306053
+End Monte Carlo Loop0: 0:00:00.548524
+
+End Batch Loop4: 0:00:00.548740
+
+DoPreProcess(): 0:00:00.030161
+DoCDCliamte(): 0:00:00.011384
+GetMetrics(): 0:00:00.000454
+DoMate(): 0:00:00.002200
+DoOffspring(): 0:00:00.000236
+InheritGenes(): 0:00:00.000008
+DoAdultMortality(): 0:00:00.001011
+DoDisperse(): 0:00:00.000847
+The file grid1.csv has been created
+DoOutput(): 0:00:00.002094
+End Generation Loop0: 0:00:00.018521
+
+ReadGrid(): 0:00:00.000272
+GetMetrics(): 0:00:00.000330
+DoMate(): 0:00:00.002113
+DoOffspring(): 0:00:00.000186
+InheritGenes(): 0:00:00.000010
+DoAdultMortality(): 0:00:00.001007
+DoDisperse(): 0:00:00.000885
+The file grid2.csv has been created
+DoOutput(): 0:00:00.001984
+End Generation Loop1: 0:00:00.007043
+
+ReadGrid(): 0:00:00.000221
+GetMetrics(): 0:00:00.000303
+DoMate(): 0:00:00.002525
+DoOffspring(): 0:00:00.000264
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001598
+DoDisperse(): 0:00:00.001091
+The file grid3.csv has been created
+DoOutput(): 0:00:00.002230
+End Generation Loop2: 0:00:00.008576
+
+ReadGrid(): 0:00:00.000263
+GetMetrics(): 0:00:00.000327
+DoMate(): 0:00:00.002161
+DoOffspring(): 0:00:00.000173
+InheritGenes(): 0:00:00.000020
+DoAdultMortality(): 0:00:00.001690
+DoDisperse(): 0:00:00.001092
+The file grid4.csv has been created
+DoOutput(): 0:00:00.002228
+End Generation Loop3: 0:00:00.008764
+
+ReadGrid(): 0:00:00.000581
+GetMetrics(): 0:00:00.000519
+DoMate(): 0:00:00.003625
+DoOffspring(): 0:00:00.000262
+InheritGenes(): 0:00:00.000017
+DoAdultMortality(): 0:00:00.001044
+DoDisperse(): 0:00:00.000660
+The file grid5.csv has been created
+DoOutput(): 0:00:00.002003
+End Generation Loop4: 0:00:00.009196
+
+ReadGrid(): 0:00:00.000231
+GetMetrics(): 0:00:00.000335
+DoMate(): 0:00:00.002932
+DoOffspring(): 0:00:00.000304
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001109
+DoDisperse(): 0:00:00.000890
+The file grid6.csv has been created
+DoOutput(): 0:00:00.002367
+End Generation Loop5: 0:00:00.008494
+
+ReadGrid(): 0:00:00.000196
+GetMetrics(): 0:00:00.000364
+DoMate(): 0:00:00.002219
+DoOffspring(): 0:00:00.000279
+InheritGenes(): 0:00:00.000012
+DoAdultMortality(): 0:00:00.000950
+DoDisperse(): 0:00:00.000620
+The file grid7.csv has been created
+DoOutput(): 0:00:00.002025
+End Generation Loop6: 0:00:00.006910
+
+ReadGrid(): 0:00:00.000237
+GetMetrics(): 0:00:00.000339
+DoMate(): 0:00:00.002043
+DoOffspring(): 0:00:00.000245
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001238
+DoDisperse(): 0:00:00.001001
+The file grid8.csv has been created
+DoOutput(): 0:00:00.001928
+End Generation Loop7: 0:00:00.007342
+
+ReadGrid(): 0:00:00.000520
+GetMetrics(): 0:00:00.000573
+DoMate(): 0:00:00.002375
+DoOffspring(): 0:00:00.000183
+InheritGenes(): 0:00:00.000009
+DoAdultMortality(): 0:00:00.000889
+DoDisperse(): 0:00:00.000710
+The file grid9.csv has been created
+DoOutput(): 0:00:00.001799
+End Generation Loop8: 0:00:00.007376
+
+ReadGrid(): 0:00:00.000181
+GetMetrics(): 0:00:00.000265
+DoMate(): 0:00:00.002100
+DoOffspring(): 0:00:00.000276
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001701
+DoDisperse(): 0:00:00.000871
+The file grid10.csv has been created
+DoOutput(): 0:00:00.001976
+End Generation Loop9: 0:00:00.007670
+
+ReadGrid(): 0:00:00.002759
+GetMetrics(): 0:00:00.001507
+DoMate(): 0:00:00.002014
+DoOffspring(): 0:00:00.000184
+InheritGenes(): 0:00:00.001755
+DoAdultMortality(): 0:00:00.001700
+DoDisperse(): 0:00:00.001069
+The file grid11.csv has been created
+DoOutput(): 0:00:00.010154
+End Generation Loop10: 0:00:00.021492
+
+ReadGrid(): 0:00:00.000275
+GetMetrics(): 0:00:00.001514
+DoMate(): 0:00:00.002808
+DoOffspring(): 0:00:00.000230
+InheritGenes(): 0:00:00.005524
+DoAdultMortality(): 0:00:00.001359
+DoDisperse(): 0:00:00.000787
+The file grid12.csv has been created
+DoOutput(): 0:00:00.007929
+End Generation Loop11: 0:00:00.020767
+
+ReadGrid(): 0:00:00.000260
+GetMetrics(): 0:00:00.001465
+DoMate(): 0:00:00.002068
+DoOffspring(): 0:00:00.000326
+InheritGenes(): 0:00:00.007076
+DoAdultMortality(): 0:00:00.001357
+DoDisperse(): 0:00:00.000889
+The file grid13.csv has been created
+DoOutput(): 0:00:00.025547
+End Generation Loop12: 0:00:00.039428
+
+ReadGrid(): 0:00:00.000268
+GetMetrics(): 0:00:00.001393
+DoMate(): 0:00:00.002001
+DoOffspring(): 0:00:00.000257
+InheritGenes(): 0:00:00.005610
+DoAdultMortality(): 0:00:00.001179
+DoDisperse(): 0:00:00.000754
+The file grid14.csv has been created
+DoOutput(): 0:00:00.007309
+End Generation Loop13: 0:00:00.019106
+
+ReadGrid(): 0:00:00.000232
+GetMetrics(): 0:00:00.001477
+DoMate(): 0:00:00.002157
+DoOffspring(): 0:00:00.000154
+InheritGenes(): 0:00:00.003279
+DoAdultMortality(): 0:00:00.001799
+DoDisperse(): 0:00:00.000809
+The file grid15.csv has been created
+DoOutput(): 0:00:00.007578
+End Generation Loop14: 0:00:00.017888
+
+ReadGrid(): 0:00:00.000287
+GetMetrics(): 0:00:00.001426
+DoMate(): 0:00:00.001949
+DoOffspring(): 0:00:00.000165
+InheritGenes(): 0:00:00.004525
+DoAdultMortality(): 0:00:00.001517
+DoDisperse(): 0:00:00.000767
+The file grid16.csv has been created
+DoOutput(): 0:00:00.007752
+End Generation Loop15: 0:00:00.018762
+
+ReadGrid(): 0:00:00.000211
+GetMetrics(): 0:00:00.001384
+DoMate(): 0:00:00.002008
+DoOffspring(): 0:00:00.000185
+InheritGenes(): 0:00:00.003790
+DoAdultMortality(): 0:00:00.001273
+DoDisperse(): 0:00:00.000799
+The file grid17.csv has been created
+DoOutput(): 0:00:00.009486
+End Generation Loop16: 0:00:00.019405
+
+ReadGrid(): 0:00:00.000255
+GetMetrics(): 0:00:00.001525
+DoMate(): 0:00:00.002253
+DoOffspring(): 0:00:00.000286
+InheritGenes(): 0:00:00.005868
+DoAdultMortality(): 0:00:00.001207
+DoDisperse(): 0:00:00.000736
+The file grid18.csv has been created
+DoOutput(): 0:00:00.007769
+End Generation Loop17: 0:00:00.020235
+
+ReadGrid(): 0:00:00.000228
+GetMetrics(): 0:00:00.001455
+DoMate(): 0:00:00.002063
+DoOffspring(): 0:00:00.000241
+InheritGenes(): 0:00:00.005978
+DoAdultMortality(): 0:00:00.001224
+DoDisperse(): 0:00:00.000872
+The file grid19.csv has been created
+DoOutput(): 0:00:00.009765
+End Generation Loop18: 0:00:00.022213
+
+ReadGrid(): 0:00:00.000278
+GetMetrics(): 0:00:00.001441
+DoMate(): 0:00:00.004138
+DoOffspring(): 0:00:00.000250
+InheritGenes(): 0:00:00.004455
+DoAdultMortality(): 0:00:00.001776
+DoDisperse(): 0:00:00.000837
+The file grid20.csv has been created
+DoOutput(): 0:00:00.008050
+End Generation Loop19: 0:00:00.021552
+
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix0.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix1.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix10.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix11.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix12.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix13.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix14.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix15.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix16.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix17.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix18.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix19.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix2.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix20.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix3.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix4.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix5.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix6.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix7.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix8.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0/Gdmatrix9.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex0.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex1.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex10.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex11.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex12.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex13.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex14.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex15.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex16.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex17.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex18.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex19.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex2.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex20.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex3.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex4.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex5.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex6.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex7.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex8.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun5mcrun0//genalex9.csv.csv has been created
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.344617
+End Monte Carlo Loop0: 0:00:00.687976
+
+End Batch Loop5: 0:00:00.688280
+
+DoPreProcess(): 0:00:00.008191
+DoCDCliamte(): 0:00:00.014123
+GetMetrics(): 0:00:00.000572
+DoMate(): 0:00:00.003740
+DoOffspring(): 0:00:00.000205
+InheritGenes(): 0:00:00.000022
+DoAdultMortality(): 0:00:00.002975
+DoDisperse(): 0:00:00.001167
+The file grid1.csv has been created
+DoOutput(): 0:00:00.003912
+End Generation Loop0: 0:00:00.027404
+
+ReadGrid(): 0:00:00.000368
+GetMetrics(): 0:00:00.002329
+DoMate(): 0:00:00.005472
+DoOffspring(): 0:00:00.000324
+InheritGenes(): 0:00:00.000012
+DoAdultMortality(): 0:00:00.001683
+DoDisperse(): 0:00:00.001281
+The file grid2.csv has been created
+DoOutput(): 0:00:00.003519
+End Generation Loop1: 0:00:00.015671
+
+ReadGrid(): 0:00:00.000354
+GetMetrics(): 0:00:00.000515
+DoMate(): 0:00:00.003773
+DoOffspring(): 0:00:00.000232
+InheritGenes(): 0:00:00.000012
+DoAdultMortality(): 0:00:00.001654
+DoDisperse(): 0:00:00.001108
+The file grid3.csv has been created
+DoOutput(): 0:00:00.003499
+End Generation Loop2: 0:00:00.011541
+
+ReadGrid(): 0:00:00.000320
+GetMetrics(): 0:00:00.000437
+DoMate(): 0:00:00.007757
+DoOffspring(): 0:00:00.000289
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001726
+DoDisperse(): 0:00:00.001225
+The file grid4.csv has been created
+DoOutput(): 0:00:00.003670
+End Generation Loop3: 0:00:00.015802
+
+ReadGrid(): 0:00:00.000445
+GetMetrics(): 0:00:00.000512
+DoMate(): 0:00:00.003612
+DoOffspring(): 0:00:00.000276
+InheritGenes(): 0:00:00.000015
+DoAdultMortality(): 0:00:00.001679
+DoDisperse(): 0:00:00.000937
+The file grid5.csv has been created
+DoOutput(): 0:00:00.003712
+End Generation Loop4: 0:00:00.011628
+
+ReadGrid(): 0:00:00.000398
+GetMetrics(): 0:00:00.000496
+DoMate(): 0:00:00.003534
+DoOffspring(): 0:00:00.000269
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.001664
+DoDisperse(): 0:00:00.000739
+The file grid6.csv has been created
+DoOutput(): 0:00:00.008349
+End Generation Loop5: 0:00:00.016418
+
+ReadGrid(): 0:00:00.000371
+GetMetrics(): 0:00:00.001053
+DoMate(): 0:00:00.005086
+DoOffspring(): 0:00:00.000227
+InheritGenes(): 0:00:00.000017
+DoAdultMortality(): 0:00:00.001590
+DoDisperse(): 0:00:00.001097
+The file grid7.csv has been created
+DoOutput(): 0:00:00.003490
+End Generation Loop6: 0:00:00.019523
+
+ReadGrid(): 0:00:00.000261
+GetMetrics(): 0:00:00.000386
+DoMate(): 0:00:00.002140
+DoOffspring(): 0:00:00.000328
+InheritGenes(): 0:00:00.000013
+DoAdultMortality(): 0:00:00.000976
+DoDisperse(): 0:00:00.001284
+The file grid8.csv has been created
+DoOutput(): 0:00:00.003331
+End Generation Loop7: 0:00:00.009154
+
+ReadGrid(): 0:00:00.000325
+GetMetrics(): 0:00:00.000457
+DoMate(): 0:00:00.003743
+DoOffspring(): 0:00:00.000215
+InheritGenes(): 0:00:00.000014
+DoAdultMortality(): 0:00:00.004564
+DoDisperse(): 0:00:00.001146
+The file grid9.csv has been created
+DoOutput(): 0:00:00.003881
+End Generation Loop8: 0:00:00.018865
+
+ReadGrid(): 0:00:00.000375
+GetMetrics(): 0:00:00.000497
+DoMate(): 0:00:00.003575
+DoOffspring(): 0:00:00.000335
+InheritGenes(): 0:00:00.000014
+DoAdultMortality(): 0:00:00.001981
+DoDisperse(): 0:00:00.000999
+The file grid10.csv has been created
+DoOutput(): 0:00:00.003824
+End Generation Loop9: 0:00:00.012085
+
+ReadGrid(): 0:00:00.005518
+GetMetrics(): 0:00:00.002508
+DoMate(): 0:00:00.003915
+DoOffspring(): 0:00:00.000196
+InheritGenes(): 0:00:00.001776
+DoAdultMortality(): 0:00:00.002812
+DoDisperse(): 0:00:00.001227
+The file grid11.csv has been created
+DoOutput(): 0:00:00.010787
+End Generation Loop10: 0:00:00.033017
+
+ReadGrid(): 0:00:00.000392
+GetMetrics(): 0:00:00.002570
+DoMate(): 0:00:00.003448
+DoOffspring(): 0:00:00.000215
+InheritGenes(): 0:00:00.004916
+DoAdultMortality(): 0:00:00.002110
+DoDisperse(): 0:00:00.001062
+The file grid12.csv has been created
+DoOutput(): 0:00:00.014432
+End Generation Loop11: 0:00:00.029548
+
+ReadGrid(): 0:00:00.000217
+GetMetrics(): 0:00:00.002190
+DoMate(): 0:00:00.002854
+DoOffspring(): 0:00:00.000240
+InheritGenes(): 0:00:00.003874
+DoAdultMortality(): 0:00:00.001188
+DoDisperse(): 0:00:00.000979
+The file grid13.csv has been created
+DoOutput(): 0:00:00.007391
+End Generation Loop12: 0:00:00.019254
+
+ReadGrid(): 0:00:00.000211
+GetMetrics(): 0:00:00.001383
+DoMate(): 0:00:00.003048
+DoOffspring(): 0:00:00.000219
+InheritGenes(): 0:00:00.003445
+DoAdultMortality(): 0:00:00.001304
+DoDisperse(): 0:00:00.000630
+The file grid14.csv has been created
+DoOutput(): 0:00:00.007630
+End Generation Loop13: 0:00:00.018185
+
+ReadGrid(): 0:00:00.000247
+GetMetrics(): 0:00:00.001407
+DoMate(): 0:00:00.002000
+DoOffspring(): 0:00:00.000139
+InheritGenes(): 0:00:00.003518
+DoAdultMortality(): 0:00:00.001517
+DoDisperse(): 0:00:00.000686
+The file grid15.csv has been created
+DoOutput(): 0:00:00.007457
+End Generation Loop14: 0:00:00.017232
+
+ReadGrid(): 0:00:00.000268
+GetMetrics(): 0:00:00.001434
+DoMate(): 0:00:00.002132
+DoOffspring(): 0:00:00.000137
+InheritGenes(): 0:00:00.002194
+DoAdultMortality(): 0:00:00.001700
+DoDisperse(): 0:00:00.000816
+The file grid16.csv has been created
+DoOutput(): 0:00:00.007709
+End Generation Loop15: 0:00:00.016687
+
+ReadGrid(): 0:00:00.000207
+GetMetrics(): 0:00:00.001400
+DoMate(): 0:00:00.002595
+DoOffspring(): 0:00:00.000146
+InheritGenes(): 0:00:00.002369
+DoAdultMortality(): 0:00:00.001328
+DoDisperse(): 0:00:00.000803
+The file grid17.csv has been created
+DoOutput(): 0:00:00.030509
+End Generation Loop16: 0:00:00.039789
+
+ReadGrid(): 0:00:00.000370
+GetMetrics(): 0:00:00.002022
+DoMate(): 0:00:00.002051
+DoOffspring(): 0:00:00.000137
+InheritGenes(): 0:00:00.002811
+DoAdultMortality(): 0:00:00.001324
+DoDisperse(): 0:00:00.000662
+The file grid18.csv has been created
+DoOutput(): 0:00:00.010693
+End Generation Loop17: 0:00:00.020407
+
+ReadGrid(): 0:00:00.000255
+GetMetrics(): 0:00:00.001393
+DoMate(): 0:00:00.002018
+DoOffspring(): 0:00:00.000142
+InheritGenes(): 0:00:00.001929
+DoAdultMortality(): 0:00:00.001359
+DoDisperse(): 0:00:00.000610
+The file grid19.csv has been created
+DoOutput(): 0:00:00.008037
+End Generation Loop18: 0:00:00.015990
+
+ReadGrid(): 0:00:00.000212
+GetMetrics(): 0:00:00.001718
+DoMate(): 0:00:00.001873
+DoOffspring(): 0:00:00.000319
+InheritGenes(): 0:00:00.003471
+DoAdultMortality(): 0:00:00.001571
+DoDisperse(): 0:00:00.001188
+The file grid20.csv has been created
+DoOutput(): 0:00:00.007666
+End Generation Loop19: 0:00:00.018321
+
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix0.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix1.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix10.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix11.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix12.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix13.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix14.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix15.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix16.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix17.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix18.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix19.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix2.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix20.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix3.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix4.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix5.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix6.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix7.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix8.csv has been created
+/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0/Gdmatrix9.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex0.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex1.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex10.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex11.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex12.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex13.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex14.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex15.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex16.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex17.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex18.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex19.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex2.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex20.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex3.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex4.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex5.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex6.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex7.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex8.csv.csv has been created
+The file grid/Users/kjj/Projects/MortSims/CDPOP_v1.2.26_20150321/data/test1427131157/batchrun6mcrun0//genalex9.csv.csv has been created
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.232146
+End Monte Carlo Loop0: 0:00:00.630117
+
+End Batch Loop6: 0:00:00.630388
+
+Total CDPOP Simulation Time: 0:00:02.962065

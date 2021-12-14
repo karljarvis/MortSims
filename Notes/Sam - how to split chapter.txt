@@ -1,0 +1,7 @@
+Sam Cushman's suggestions on paper:
+
+What I was trying to get at on landscape context was:
+
+You could still do road distance mixed models with individual neighborhood as sample unit and calculate fragstats moving windows with radius of neighbhorhood sigma. Fragstats does moving windows and easy to calculate. Given what youve seen I think you would want to evaluate percentage of landsacpe in each neighborhod, and probably things like edge density, or patch density, or something else.
+
+Also, something I think you/we should do -- which might be the most famous part of this -- would be to split the migration rate stuff and write a paper about how IBD and IBR change migration rate, AND change genetic diversity in wrights neighborhood and total popualtion, and write it as a tight clean focus on the 1 migrant per generation rule. Basically your sims show that it is much harder to get migrants than people thought because of 10 fold reduction due to IBD/IBR, and I think will also show that distance/resistance limited neighborhoods results in those migrants being much less effective at sustaining population level diversity due to strong local drift in IBR/IBD neighborhoods.

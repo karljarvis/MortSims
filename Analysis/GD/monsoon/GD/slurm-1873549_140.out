@@ -1,0 +1,16 @@
+Loading required package: ggplot2
+Loading required package: methods
+Loading required package: raster
+Loading required package: sp
+[1] "CDPOP Directory /scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373"
+[1] "input variables file /scratch/kj375/CDPOP/mmdata/invar_ibr24_b1500m100.csv"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun0"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun1"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun2"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun3"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun4"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun5"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun6"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun7"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun8"
+[1] "/scratch/kj375/CDPOP/mmdata/out_ibr24_b1500m1001427556373/batchrun0mcrun9"
