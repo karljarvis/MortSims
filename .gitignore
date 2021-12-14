@@ -4,6 +4,9 @@ archive
 Manuscript
 Presentations
 
+# Mac system files
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
