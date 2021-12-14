@@ -22,7 +22,7 @@ The most advanced approach to genetic diversity -- spatial genetic diversity ([s
 The spatially explicit wildlife genetic simulations were run here.
 
 ### CDPOP_v1.2.26_20150321
-The CDPOP program, documentation, the code for setting up the simulations, and the data output from it.
+The CDPOP program, documentation, the code for setting up the simulations, and some data output from it. The bulk of the results are not on Github due to size constraints. I ran them on a parallel processor to cut ~1 month computing time down to a few hours.
 
 ### QRULE
 Robert Gardner's [QRULE](https://www.umces.edu/qrule) program for generating rasters for landscape simulations, which I used to generate the complex landscapes.
