@@ -25,4 +25,4 @@ The spatially explicit wildlife genetic simulations were run here.
 The CDPOP program, documentation, the code for setting up the simulations, and the data output from it.
 
 ### QRULE
-Robert Gardner's program for generating rasters for landscape simulations, which I used to generate the complex landscapes.
+Robert Gardner's [QRULE](https://www.umces.edu/qrule) program for generating rasters for landscape simulations, which I used to generate the complex landscapes.
